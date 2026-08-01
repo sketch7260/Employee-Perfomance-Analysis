@@ -59,7 +59,7 @@ SELECT *,
 FROM quartiles;
 ```
 
-Full script: [`employee_performance_dashboard_sqlserver.sql`](./Employee_Performance_Analysis.sql)
+Full script: [`Employee_Performance_Analysis.sql`](./Employee_Performance_Analysis.sql)
 
 ## Key findings
 
