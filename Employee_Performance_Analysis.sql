@@ -26,7 +26,6 @@
 /* ---------------------------------------------------------------------
    1. RANK EMPLOYEES WITHIN EACH DEPARTMENT BY SALARY
    --------------------------------------------------------------------- */
-   USE emp_perf
 SELECT
     Department,
     Employee_Name,
