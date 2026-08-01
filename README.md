@@ -93,14 +93,14 @@ Full script: [`Employee_Performance_Analysis.sql`](./Employee_Performance_Analys
 
 ## How to run
 
-1. Import `HRDataset_v14.csv` into SQL Server (Import Wizard or `BULK INSERT`) as a table named `employees`
-2. Run `employee_performance_dashboard_sqlserver.sql`
+1. Import `HRDataset_v14.csv` into SQL Server as a table named `employees`
+2. Run `Employee_Performance_Analysis.sql`
 
 ## Files
 _______________________________________________________________________________________________
 |                       File                     |                Description                 |
 |------------------------------------------------|--------------------------------------------|
-| `employee_performance_dashboard_sqlserver.sql` | All analysis queries                       |
+| `Employee_Performance_Analysis.sql`            | All analysis queries                       |
 | `HRDataset_v14.csv`                            | Source dataset                             |
 | `chart*.png`                                   | Visualizations generated from query output |
 _______________________________________________________________________________________________
